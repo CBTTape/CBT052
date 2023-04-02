@@ -1,0 +1,18 @@
+2023-04-02 21:15:05.597154 - Initialized conversion of CBT052
+2023-04-02 21:15:05.726912 - Received CBT.V504.FILE052.PDS from FILE052.XMI 
+2023-04-02 21:15:05.729859 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:15:05.731099 - Found $$README.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/$$README
+2023-04-02 21:15:05.732251 - Found $CHANGES.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/$CHANGES
+2023-04-02 21:15:05.733357 - Found $MEMORY.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/$MEMORY
+2023-04-02 21:15:05.734619 - Found @FILE052.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/@FILE052
+2023-04-02 21:15:05.735679 - Found IHADQE.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/IHADQE
+2023-04-02 21:15:05.736774 - Found IHAPCCA.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/IHAPCCA
+2023-04-02 21:15:05.737747 - Found IHAPQE.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/IHAPQE
+2023-04-02 21:15:05.737760 - Found LKEDSHOW.bin containing application/octet-stream, moved to PDS/LKEDSHOW
+2023-04-02 21:15:05.739843 - Found P$BEGIN.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/P$BEGIN
+2023-04-02 21:15:05.740800 - Found P$END.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/P$END
+2023-04-02 21:15:05.741871 - Found SHOWMVS.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/SHOWMVS
+2023-04-02 21:15:05.741881 - Found SHOWOBJ.bin containing application/octet-stream, moved to PDS/SHOWOBJ
+2023-04-02 21:15:05.744377 - Found STRING.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/STRING
+2023-04-02 21:15:05.745441 - Found WK$OUT.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/WK$OUT
+2023-04-02 21:15:05.746620 - Found YREGS.txt (text/plain) in CBT.V504.FILE052.PDS, moved to PDS/YREGS
